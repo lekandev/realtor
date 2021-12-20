@@ -14,7 +14,7 @@ const Property = ({
     price,
     rentFrequency,
     rooms,
-    tile,
+    title,
     baths,
     area,
     agency,
